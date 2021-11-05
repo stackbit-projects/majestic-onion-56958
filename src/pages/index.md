@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: 'Hi, I''m Jarod'
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      I help online business owners increase their conversion rates and revenue
+      with an amazing modern website.
     actions:
       - label: Contact Me
         url: /contact
