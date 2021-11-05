@@ -7,7 +7,7 @@ sections:
       I help online business owners increase their conversion rates and revenue
       with an amazing modern website.
     actions:
-      - label: Contact Me
+      - label: Are you in?
         url: /contact
         style: primary
     image: images/hero.png
